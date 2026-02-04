@@ -1,9 +1,3 @@
-Love it — let’s make your README look 🔥 GitHub-pro level.
-
-You can copy-paste everything below directly into **README.md**.
-
----
-
 # 🐱🐶 CNN Image Classification – Custom CNN vs Transfer Learning
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
